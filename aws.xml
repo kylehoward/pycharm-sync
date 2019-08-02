@@ -1,0 +1,9 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="false" />
+  </component>
+  <component name="sam">
+    <option name="savedExecutablePath" value="/home/linuxbrew/.linuxbrew/bin/sam" />
+  </component>
+</application>
