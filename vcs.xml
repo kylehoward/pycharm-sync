@@ -10,8 +10,20 @@
           <option name="url" value="https://github.com/kylehoward/100daysofcode-with-python-course.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kylehoward/challenges.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cubic-nextbus/nextbus-devops.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cubic-nextbus/nextbus-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Kyle\PycharmProjects\100days" />
+    <option name="cloneParentDir" value="C:\Users\209374\Documents\PycharmProjects" />
   </component>
 </application>
