@@ -1,0 +1,9 @@
+<application>
+  <component name="KubernetesSettings">
+    <option name="kubernetesPackage">
+      <ApiPackage>
+        <option name="version" value="1.8" />
+      </ApiPackage>
+    </option>
+  </component>
+</application>

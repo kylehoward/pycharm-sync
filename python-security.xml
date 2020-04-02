@@ -1,0 +1,5 @@
+<application>
+  <component name="PythonSecuritySettings">
+    <option name="SAFETY_DB_MODE" value="Custom" />
+  </component>
+</application>
