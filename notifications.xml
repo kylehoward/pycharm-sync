@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="FTP/SFTP Connectivity: Remote Host" displayType="TOOL_WINDOW" />
+  </component>
+</application>
