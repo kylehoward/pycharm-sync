@@ -1,10 +1,14 @@
 <application>
   <component name="aws">
     <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="true" />
   </component>
   <component name="executables">
     <option name="value">
       <list>
+        <ExecutableState>
+          <option name="id" value="cloud-debugCli" />
+        </ExecutableState>
         <ExecutableState>
           <option name="autoResolved" value="true" />
           <option name="executablePath" value="C:\Program Files\Amazon\AWSSAMCLI\bin\sam.cmd" />
